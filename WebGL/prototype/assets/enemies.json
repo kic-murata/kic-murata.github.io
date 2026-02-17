@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "textureName": "Enemy1",
+    "texturePath": "enemy1.png",
+    "emoji": "👻",
+    "hp": 20.0,
+    "speed": 80.0,
+    "exp": 10.0,
+    "radius": 24.0,
+    "frameCount": 1
+  },
+  {
+    "id": 1,
+    "textureName": "Enemy2",
+    "texturePath": "enemy2.png",
+    "emoji": "🧜‍♂️",
+    "hp": 60.0,
+    "speed": 120.0,
+    "exp": 15.0,
+    "radius": 20.0,
+    "frameCount": 1
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "background": "background.png",
+        "bgm": "field_bgm.mp3",
+        "timeLimit": 600,
+        "waves": [
+            {
+                "startTime": 0,
+                "spawnInterval": 1.0,
+                "maxEnemyCount": 10,
+                "enemies": [
+                    {
+                        "id": 0,
+                        "weight": 100
+                    }
+                ]
+            },
+            {
+                "startTime": 60,
+                "spawnInterval": 0.8,
+                "maxEnemyCount": 20,
+                "enemies": [
+                    {
+                        "id": 0,
+                        "weight": 50
+                    },
+                    {
+                        "id": 1,
+                        "weight": 50
+                    }
+                ]
+            },
+            {
+                "startTime": 120,
+                "spawnInterval": 0.5,
+                "maxEnemyCount": 40,
+                "enemies": [
+                    {
+                        "id": 0,
+                        "weight": 30
+                    },
+                    {
+                        "id": 1,
+                        "weight": 70
+                    }
+                ]
+            }
+        ]
+    }
+]
